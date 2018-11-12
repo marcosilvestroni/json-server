@@ -1,0 +1,21 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate.js",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start":"json-server generate.js"
+  },
+  "keywords": [
+    "json",
+    "server"
+  ],
+  "author": "Marco Silvestroni",
+  "license": "ISC"
+}
